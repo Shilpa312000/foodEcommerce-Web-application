@@ -33,3 +33,5 @@ Online food ordering is the process of ordering food from a website. The product
 ![Screenshot (9)](https://github.com/Shilpa312000/foodEcommerce-Web-application/assets/166910303/e12b6e61-160d-4c38-bab4-29108fba8cc2)
 
 
+![Screenshot (25)](https://github.com/Shilpa312000/foodEcommerce-Web-application/assets/166910303/25892889-df1a-4ac3-a8d2-140c044374dd)
+![Screenshot (27)](https://github.com/Shilpa312000/foodEcommerce-Web-application/assets/166910303/53962ecf-d9be-47ef-97f2-b8a3f72e8a9a)
